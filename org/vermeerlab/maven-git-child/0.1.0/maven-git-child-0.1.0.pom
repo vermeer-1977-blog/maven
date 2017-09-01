@@ -17,8 +17,15 @@
         <!--
         <git.repositoryName>maven-test</git.repositoryName>
         -->
+
+        <!--
         <git.repositoryOwner>vermeer-1977-blog</git.repositoryOwner>
         <git.repositoryName>maven</git.repositoryName>
+        -->
+        <github.global.server>github-blog</github.global.server>
+        <git.repositoryOwner>vermeer-1977-blog</git.repositoryOwner>
+        <git.repositoryName>maven</git.repositoryName>
+
 
     </properties>
 
